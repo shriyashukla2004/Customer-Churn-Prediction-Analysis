@@ -1,8 +1,8 @@
-# 🚀 Customer Churn Prediction & Analysis
+# Customer Churn Prediction & Analysis
 A data analysis project demonstrating proficiency in SQL, Machine Learning (Random Forest), and Business Intelligence (Power BI) to predict customer attrition and identify key retention drivers.
 
 
-# 🌟 Project Highlights
+# Project Highlights
 This project was built to deliver clear, data-driven solutions and showcase technical mastery across the entire analytics pipeline.
 
 **Business Impact & Predictive Power**
@@ -55,7 +55,7 @@ Here are the key files and the technologies associated with them:
 - Data Analysis 1.sql: SQL queries used for Exploratory Data Analysis (EDA) and generating initial business insights.
 
 
-# 📂 Methodology & Workflow
+# Methodology & Workflow
 This project followed a structured approach, ensuring data integrity and robust model development.
 
 **1. Data Analysis (SQL Focus)**
@@ -84,7 +84,7 @@ Model Selection: Chosen due to its high performance on classification tasks, abi
       - Revenue impact analysis for better decision-making.
 
 
-# 🖼️ Visual Showcase
+# Visual Showcase
 
 **Summary Page**
 
@@ -95,7 +95,7 @@ Model Selection: Chosen due to its high performance on classification tasks, abi
 <img width="1154" height="658" alt="Churn_Prediction Page" src="https://github.com/user-attachments/assets/18ff682c-a153-4d28-9500-814bba38e5d2" />
 
 
-# ✅ Conclusion: Driving Business Value
+# Conclusion: Driving Business Value
 
 This project represents a complete, full-cycle solution, transforming raw customer data into a highly accurate and deployable prediction model.
 
